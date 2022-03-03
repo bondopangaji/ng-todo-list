@@ -1,0 +1,11 @@
+<header>
+  <h1>{{ title }}</h1>
+  <app-button
+    color="{{ showAddTodo ? '#d50000' : '#3f51b5' }}"
+    fontColor="#ffffff"
+    text="{{ showAddTodo ? 'Close' : 'Add' }}"
+    *ngIf="hasRoute('/')"
+    (btnClick)="toggleAddTodo()"
+  >
+  </app-button>
+</header>
