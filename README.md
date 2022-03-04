@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contain Todo List web application created with `Angular (13.2.0)` web framework and `json-server (0.17.0` for the backend database mock, this project highly inspired by @/bradtraversy angular course
+This repository contain Todo List web application created with `Angular (13.2.0)` web framework and `json-server (0.17.0)` for the backend database mock, this project highly inspired by @/bradtraversy angular course
 
 ## Preview
 ![preview](https://github.com/bondopangaji/Angular-Todo-List/blob/main/preview.png)
